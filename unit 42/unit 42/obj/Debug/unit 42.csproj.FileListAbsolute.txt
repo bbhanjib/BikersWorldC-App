@@ -1,0 +1,26 @@
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\bin\Debug\unit 42.exe.config
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\bin\Debug\unit 42.exe
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\bin\Debug\unit 42.pdb
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.csprojResolveAssemblyReference.cache
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.Properties.Resources.resources
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.csproj.GenerateResource.Cache
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.exe
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.pdb
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmSales.resources
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmAddCustomer.resources
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmCheckCustomers.resources
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.orders.resources
+\\be-fs-student\students\40024834\documents\visual studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmOrders1.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\bin\Debug\unit 42.exe.config
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.exe
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.pdb
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\bin\Debug\unit 42.exe
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\bin\Debug\unit 42.pdb
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmOrders1.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmSales.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmAddCustomer.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.frmCheckCustomers.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.orders.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit_42.Properties.Resources.resources
+Z:\Documents\Visual Studio 2013\Projects\unit 42\unit 42\obj\Debug\unit 42.csproj.GenerateResource.Cache
